@@ -1,0 +1,15 @@
+[
+	{
+		"model": "auth.user", 
+		"fields": {
+			"username":"elon_musk",
+			"password": "pbkdf2_sha256$150000$fcW0Fg8EqOGp$D7caFbbcgp0W+SO7fPpHrd3K8+v5mtwEzWygG81jP4w=", 
+			"is_superuser": true, 
+			"is_staff": true, 
+			"is_active": true, 
+			"first_name": "Elon", 
+			"last_name": "Musk", 
+			"email": "elonmusk7657@gmail.com"
+			}
+	}
+]
